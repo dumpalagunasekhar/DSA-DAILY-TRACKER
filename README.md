@@ -1,2 +1,2 @@
 # DSA-DAILY-TRACKER
-My DSA Consistency for become strong in DSA
+My DSA Consistency for become a expert in DSA
