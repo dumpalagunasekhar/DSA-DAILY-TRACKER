@@ -12,4 +12,4 @@ So if you are seeing my github repo this is my second in my progress in DSA!!
 
 ## DAY3
 
-# Getting Used to Logic
+Getting Used to Logic
